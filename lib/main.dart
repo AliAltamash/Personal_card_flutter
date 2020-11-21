@@ -48,6 +48,9 @@ class personalCard extends StatelessWidget {
                 endIndent: 70.0,
                 color: Colors.white,
               ),
+              SizedBox(
+                height: 20.0,
+              ),
               Card(
                 margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 40.0),
                 child: ListTile(
